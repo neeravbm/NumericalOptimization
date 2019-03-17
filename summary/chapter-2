@@ -1,0 +1,46 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.ipynb",
+      "version": "0.3.2",
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/neeravbm/NumericalOptimization/blob/master/summary/chapter-2\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "metadata": {
+        "id": "-6OeSH63f_2E",
+        "colab_type": "text"
+      },
+      "cell_type": "markdown",
+      "source": [
+        "#Chapter 2 - Fundamentals of Unconstrained Optimization\n",
+        "\n",
+        "##2.1 - What is a solution?\n",
+        "\n",
+        "*Def*: A point $x^*$ is a global minimizer if $f(x^*) \\leq f(x) \\space \\forall x \\epsilon \\mathbb{R}^n $.\n",
+        "\n",
+        "*Def*: A point $x^*$ is a (weak) local minimizer if $\\exists \\mathcal{N} s.t. f(x^*) <= f(x) \\space \\forall x \\epsilon \\mathcal{N}$.\n",
+        "\n",
+        "*Def*: A point $x^*$ is a strict (strong) local minimizer if $\\exists \\mathcal{N} s.t. f(x^*) < f(x) \\space \\forall x \\epsilon \\mathcal{N}$ with $x \\neq x^*$."
+      ]
+    }
+  ]
+}
