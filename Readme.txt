@@ -1,0 +1,1 @@
+Although I know basic optimization theory, I need to know it in a lot more detail to develop my Scan To BIM Revit add-in (https://scantobim.xyz). I am starting to learn it from the book Numerical Optimization by Nocedal & Wright. This repo will summarize my understanding as well as code which I can later into a library.
